@@ -1,0 +1,2 @@
+/Users/vishalnema/Documents/XML/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+/Users/vishalnema/Documents/XML/Classes/RootViewController.m:36: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:200)

@@ -2,7 +2,7 @@
 //  XMLAppDelegate.h
 //  XML
 //
-//  Created by Chakra on 05/04/2011
+//  Created by David McAfee
 
 
 #import <UIKit/UIKit.h>
